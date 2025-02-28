@@ -35,7 +35,7 @@ This project implements an image captioning system using a deep learning model t
 5. **Deploying the Gradio Interface:**
    - At the end of the notebook, a Gradio interface is launched.
    - **Local URL:** [http://127.0.0.1:7860](http://127.0.0.1:7860)
-   - **Public URL:** [https://ce3ee57df6d626c65b.gradio.live](https://ce3ee57df6d626c65b.gradio.live)
+   - **Public URL:** [https://81f153ce62cb2d51c7.gradio.live](https://81f153ce62cb2d51c7.gradio.live)
 
 ___
 ## Overview of the Model, API, and Frontend
